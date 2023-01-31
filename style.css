@@ -1,0 +1,59 @@
+.body {
+  background-image: url(https://dijitalkoleksiyon.files.wordpress.com/2012/03/hd-sunset-wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form {
+  /* background-image: url(https://media.istockphoto.com/id/1206587771/photo/abstract-contrast-backgrounds.jpg?b=1&s=170667a&w=0&k=20&c=IIS4WdiM3imsydWlF5E-4YC6mb0LBzN3HiD8fL-GTCA=);
+  background-repeat: no-repeat;
+  background-size: cover; */
+  border: auto solid blue;
+  /* background-color: white; */
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  left: 1000px;
+  top: 70px;
+  border-radius: 10px;
+}
+.welcome {
+  font-size: 50px;
+  color: antiquewhite;
+  position: absolute;
+  left: 100px;
+  top: 40px;
+}
+.log {
+  color: antiquewhite;
+  font-size: 30px;
+  position: relative;
+}
+.size {
+  font-size: 20px;
+  color:white;
+}
+.size2 {
+  font-size: 20px;
+}
+.registr {
+  border: 2px solid red;
+  height: 30px;
+  width: 200px;
+  position: absolute;
+  top: 300px;
+  left: 36px;
+  background-color: red;
+}
+.login {
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 65px;
+  top: 7px;
+}
+.first {
+  position: absolute;
+  top: 330px;
+  left: 70px;
+  color: white;
+}
